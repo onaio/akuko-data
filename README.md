@@ -1,2 +1,2 @@
-# akuko-data
+# Akuko Data
 Data for demo posts
